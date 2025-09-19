@@ -1,4 +1,4 @@
-
+<Head>Griot</Head>
 <!DOCTYPE html>
 <html lang="en">
 <head>
